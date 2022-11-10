@@ -1,0 +1,68 @@
+.acc3{
+    width: 100%;
+}
+
+.p{
+    width: 100%;
+    height: 50px;
+    background: rgb(244, 241, 241);
+    color: #555;
+    transform: translateY(-5px);
+}
+.p p{
+    font-size: 12px;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top:10px;
+}
+
+.i14{
+    width: 50%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.iphone_text{
+text-align: center;
+margin-top: 50px;
+}
+
+.iphone_text h4{
+    color: #777;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.iphone_text h2{
+    padding-right: 15px;
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 15px;
+}
+.iphone_text h1{
+    font-size: 40px;
+    padding-top: 15px;
+}
+.iphone_text h3{
+    padding-top: 20px;
+    color: #222;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.iphone_text .btn {
+    width: 70px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background: dodgerblue;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.iphone_text a{
+    font-size: 18px ;
+    text-decoration: none;
+    padding-left: 20px;
+}
